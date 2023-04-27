@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Flag Default Drawing Titles 2023</Text>
+    <Description>Identifies view names with lowercase letters and allows user to edit names.</Description>
+    <Assembly>FlagDefaultDrawingTitles2023.dll</Assembly>
+    <FullClassName>FlagDefaultDrawingTitles2023.Command</FullClassName>
+    <ClientId>76b21495-f498-4cdc-aa77-856f9d2e535a</ClientId>
+	  <VendorId>com.architectsfora</VendorId>
+	  <VendorDescription>Architects FORA, https://architectsfora.com/</VendorDescription>
+  </AddIn>
+</RevitAddIns>
